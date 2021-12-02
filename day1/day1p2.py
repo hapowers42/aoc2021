@@ -15,5 +15,3 @@ with open("input", "r") as f:
 		curr_sum = next_sum	
 
 	print(incr)
-
-

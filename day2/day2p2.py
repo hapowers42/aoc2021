@@ -18,3 +18,4 @@ with open("input", "r") as f:
 
 	print(pos)
 	print(pos[0] * pos[1])
+	
